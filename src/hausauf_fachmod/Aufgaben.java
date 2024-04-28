@@ -3,7 +3,7 @@ package hausauf_fachmod;
 public class Aufgaben {
 
 		
-		// 25042024
+		// Auf_25042024
 
 		// Führen Sie das Codebeispiel so fort, dass Sie mittels Scanner-Klasse eine
 		// Eingabe vom Benutzer erwarten,
@@ -17,7 +17,7 @@ public class Aufgaben {
 		// für richtige Antworten ein ;)
 		// Die Ausgabe soll am Ende des Spiels erfolgen
 
-		// 2604204
+		// Auf_2604204
 
 		// Wir haben mit UML auf drawio gearbeitet und das Model für das Spiel erstellt.
 
