@@ -16,6 +16,7 @@ public class Aufgaben {
 		// Noch mehr Zusatz: Wem das noch zu leicht ist: führen Sie ein Punkte-System
 		// für richtige Antworten ein ;)
 		// Die Ausgabe soll am Ende des Spiels erfolgen
+	
 
 		// Auf_260424
 
