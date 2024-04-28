@@ -20,7 +20,9 @@ public class Aufgaben {
 		// Auf_260424
 
 		// Wir haben mit UML auf drawio gearbeitet und das Model für das Spiel erstellt.
-
+	
+		// https://app.diagrams.net/#G1YubovM0Ic8ZeG9qJdW80IouASkPDYNZa#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
+		
 		//Ihre Aufgabe besteht nun darin, für eines der Modelle (MobModel, BossModel oder NPCModel) 
 		//ein konkretes Objekt mit den korrekten Attributen zu erstellen. Dies können Sie in Textform machen, 
 		//falls Sie möchten auch lokal bei Ihnen in Eclipse/Java. Beachten Sie aber bitte, dass Sie dazu 
