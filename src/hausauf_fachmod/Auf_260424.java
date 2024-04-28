@@ -11,7 +11,7 @@ public class Auf_260424 {
 	// ----------
 	// Inventory:
 	// ----------
-	// Flugunfaehiges Huhn (Pet)  	200 G
+	// Flugunfaehiges Huhn (Pet)  		200 G
 	// Rotes Huhn (Pet) 			200 G
 	// Gruenes Huhn (Pet)			200 G
 	// Ueberraschungsei* 			300 G
