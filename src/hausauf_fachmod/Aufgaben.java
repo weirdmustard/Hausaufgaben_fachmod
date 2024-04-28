@@ -2,8 +2,6 @@ package hausauf_fachmod;
 
 public class Aufgaben {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		// 25042024
 
@@ -47,4 +45,3 @@ public class Aufgaben {
 
 	}
 
-}
