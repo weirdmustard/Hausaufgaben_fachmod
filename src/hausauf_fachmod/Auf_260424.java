@@ -16,8 +16,8 @@ public class Auf_260424 {
 	// Gruenes Huhn (Pet)			200 G
 	// Ueberraschungsei* 			300 G
 	// Großer Hahn (Pet)			500 G
-	// Gepanzertes Kampfhuhn  (Pet)	500 G
-	// Gepanzertes Flughuhn (Mount) 1000 G
+	// Gepanzertes Kampfhuhn  (Pet)		500 G
+	// Gepanzertes Flughuhn (Mount) 	1000 G
 	//
 	//* enthaelt eines des 6 anderen items
 	// ----------
