@@ -21,7 +21,7 @@ public class Auf_260424 {
 	//
 	//* enthaelt eines des 6 anderen items
 	// ----------
-	// Quest: 
+	// Quest: Haralds Hahn
 	// 
 	// "Kikeriki! Oh warte mal, hast du zufällig ein grosses, praechtiges Huhn gesehen? Nein, nicht 
 	// solche hier, eins aus Holz. Bis gestern hatte ich hier ein Schild stehen, durch das alle Reisenden  
